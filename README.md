@@ -1,6 +1,6 @@
 # Car Price Prediction - Data Science Internship
 
--> NOTE: This repository contains the Task 2 project completed during my Data Science Internship at @CodeAlpha
+-> NOTE: This repository contains the (Task 3) project completed during my Data Science Internship at @CodeAlpha
 
 ## 🏢 Company: CodeAlpha (https://www.codealpha.tech)
 * **Internship Role:** Data Science Intern
